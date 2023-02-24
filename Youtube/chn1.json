@@ -1,0 +1,49 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "32JXd_C5SyKh3IceXS1_IoGmjuE",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "2BAtRBymlXX8e075Oach8TdibCg",
+      "id": "UC2Ru64PHqW4FxoP0xhQRvJg",
+      "snippet": {
+        "title": "ТОПЛЕС",
+        "description": "Люблю жизнь, но больше люблю ее изучать. \nСложные вещи простым языком.\nГлубокий анализ, непривычный ход мысли и противоинтуитивные факты в одной большой логичной истории - это Топлес.\n",
+        "customUrl": "@toplesofficial",
+        "publishedAt": "2013-06-19T12:05:22Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ZBWS3E4uGNbpNI_Jh4Od9M-m4Qiu-8PVcyHufiFGSvyarmkeBid4Gl0zfoVQ4no0T0b3wwikQQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ZBWS3E4uGNbpNI_Jh4Od9M-m4Qiu-8PVcyHufiFGSvyarmkeBid4Gl0zfoVQ4no0T0b3wwikQQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ZBWS3E4uGNbpNI_Jh4Od9M-m4Qiu-8PVcyHufiFGSvyarmkeBid4Gl0zfoVQ4no0T0b3wwikQQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ТОПЛЕС",
+          "description": "Люблю жизнь, но больше люблю ее изучать. \nСложные вещи простым языком.\nГлубокий анализ, непривычный ход мысли и противоинтуитивные факты в одной большой логичной истории - это Топлес.\n"
+        },
+        "country": "RU"
+      },
+      "statistics": {
+        "viewCount": "705631314",
+        "subscriberCount": "6110000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "187"
+      }
+    }
+  ]
+}
